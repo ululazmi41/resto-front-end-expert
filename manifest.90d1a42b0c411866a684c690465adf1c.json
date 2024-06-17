@@ -1,0 +1,59 @@
+{
+  "icons": [
+    {
+      "src": "auto/icon_72x72.87423ec0ccfc8d9df222f6ec4f1af20d.png",
+      "sizes": "72x72",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "auto/icon_512x512.4e7c17945243a65c50042eb934c29b4d.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "auto/icon_384x384.347c52dab5e794b6011446df2ecced3e.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "auto/icon_192x192.14e9b6a7536cca56e36674e4c3f2f017.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "auto/icon_152x152.c3cd2210b454a61f9f4c8bcf8d59f2e9.png",
+      "sizes": "152x152",
+      "type": "image/png"
+    },
+    {
+      "src": "auto/icon_144x144.59f321d3e6eaa673326e556037a01e59.png",
+      "sizes": "144x144",
+      "type": "image/png"
+    },
+    {
+      "src": "auto/icon_128x128.29f2acfdfad491f3d50a3e6cee1b2a4a.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "auto/icon_96x96.dbb85df652339cc9256aa164f2a1b46c.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    },
+    {
+      "src": "auto/icon_72x72.3729f1f96b8db5b68d2de770b7880cc0.png",
+      "sizes": "72x72",
+      "type": "image/png"
+    }
+  ],
+  "name": "Resto App",
+  "short_name": "Resto App",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": "./index.html",
+  "id": "resto-app-pwa",
+  "theme_color": "#4c74db",
+  "background_color": "#215cf3",
+  "description": "Resto App merupakan aplikasi yang menyediakan informasi berbagai restoran yang ada di Indonesia, khususnya restoran yang sangat sering dikunjungi setiap saat"
+}
